@@ -1,4 +1,4 @@
-# MachineLearningPreprocessing2
+# MachineLearning Preprocessing of basic statistics and simple imputation of proteomics project
 
 import numpy as np
 
