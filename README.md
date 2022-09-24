@@ -8,7 +8,7 @@ from sklearn import preprocessing
 
 #read data from excel file
 
-PEA_biomine=pd.read_excel('D:\PhDproject\p1_2\protein data\PEA_biomine_unlock.xlsx', sheet_name='Sheet2')
+PEA_biomine=pd.read_excel('D:\protein data\PEA_biomine_unlock.xlsx', sheet_name='Sheet2')
 
 #calculating mean, SD, count,for all groups
 
