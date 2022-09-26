@@ -1,10 +1,10 @@
 ####Machine Learning Preprocessing of basic statistics and simple imputation of proteomics project
 
-import numpy as np
+  import numpy as np
 
-import pandas as pd
+  import pandas as pd
 
-from sklearn import preprocessing
+  from sklearn import preprocessing
 
 #read data from excel file
 
