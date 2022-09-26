@@ -1,4 +1,4 @@
-####Machine Learning Preprocessing of basic statistics and simple imputation of proteomics project
+####Machine Learning Preprocessing of basic statistics and simple imputation of proteomics project in Python, Jupyter notebook
 
               import numpy as np
 
